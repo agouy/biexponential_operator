@@ -1,22 +1,8 @@
 {
-    "name": [
-        "Biexponential"
-    ],
-    "description": [
-        "Perform a biexponential transformation of data points in a cell."
-    ],
-    "tags": [
-        "data transformation",
-        "data preprocessing",
-        "flow cytometry"
-    ],
-    "authors": [
-        "tercen"
-    ],
-    "urls": [
-        "https://github.com/pamgene/biexponential_transform"
-    ],
-    "properties": [
-
-    ]
+  "name": "Biexponential",
+  "description": "Perform a biexponential transformation of data points in a cell.",
+  "tags": ["data transformation", "data preprocessing", "flow cytometry"],
+  "authors": "tercen",
+  "urls": "https://github.com/pamgene/biexponential_transform",
+  "properties": []
 }
